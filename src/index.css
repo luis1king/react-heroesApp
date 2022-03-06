@@ -1,0 +1,19 @@
+#root {
+    background-color: black;
+    color: white;
+    
+    min-height: 100vh;
+}
+
+.card{
+    background-color:black;
+}
+
+html{
+    background-color: black;
+}
+
+.animate__animated animate__fadeIn {
+    --animate-duration: 3s;
+  }
+  
